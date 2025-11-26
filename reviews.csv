@@ -1,0 +1,7 @@
+review,sentiment
+Great product,POSITIVE
+Bad experience,NEGATIVE
+"your reviews app is amazing
+",POSITIVE
+This was a terrible experience,NEGATIVE
+your app is not good,NEGATIVE
